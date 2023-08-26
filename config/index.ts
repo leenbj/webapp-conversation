@@ -1,7 +1,7 @@
 import type { AppInfo } from '@/types/app'
-export const APP_ID = '0c80d798-2145-4b27-9ae4-9135f3e072f6'
-export const API_KEY = 'app-psGeSYl0cFLpYaS2lQBWD6bq'
-export const API_URL = 'http://d.rexseo.cn/v1'
+export const APP_ID = '9e550ebc-85f6-425c-8a2d-6f7e90ba2af5'
+export const API_KEY = 'app-iaUyJPUutRfNI911IQLiXExY'
+export const API_URL = 'http://api.vecchat.com/v1'
 export const APP_INFO: AppInfo = {
   title: 'Chat APP',
   description: '',
